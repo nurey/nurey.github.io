@@ -1,29 +1,26 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Using OpenVPN with 1password"
 date:   2024-04-10 09:38:36 -0400
-categories: jekyll update
 ---
-You’ll find this post in your `_posts` directory. Go ahead and edit it and re-build the site to see your changes. You can rebuild the site in many different ways, but the most common way is to run `jekyll serve`, which launches a web server and auto-regenerates your site when a file is updated.
 
-Jekyll requires blog post files to be named according to the following format:
+I have a small desktop tower on my local network, an old Dell Optiplex that a friend gifted me. Shout out to Ryan! I run Ubuntu Linux on this machine, with docker containers for Plex, and Homebridge. I also use this server to deploy some hobby projects of my own.
 
-`YEAR-MONTH-DAY-title.MARKUP`
+Sometimes I need to start up a VPN tunnel from the Optiplex. Since I already have a ProtonVPN license that I use on the macbook and the iPhone, I thought I should be able to use ProtonVPN on Ubuntu. There's an official package distributed by ProtonVPN, but it's designed for desktop linux. I wanted to be able to run a VPN tunnel connecting to ProtonVPN's servers using the CLI. I looked to see if there a CLI version and there was (v3 Linux CLI) but it didn't work for me. I found that ProtonVPN published a document to [configure OpenVPN for ProtonVPN in Linux](https://protonvpn.com/support/linux-openvpn/). This worked out for me. What I didn't want to settle for is storing the openvpn configuration file, with sensitive information, on the server.
+Since I already use 1password, I wanted to store this file in 1password and have some script pipe the file from 1password into the OpenVPN CLI.
+I stumbled upon a [project](https://github.com/akinazuki/openvpn-1password) that does exactly this.
+As long as you format the 1password entry properly, you will be good. Here is my 1password entry as an example:
 
-Where `YEAR` is a four-digit number, `MONTH` and `DAY` are both two-digit numbers, and `MARKUP` is the file extension representing the format used in the file. After that, include the necessary front matter. Take a look at the source for this post to get an idea about how it works.
+![1password entry for OpenVPN to connect to ProtonVPN](/assets/1password-protonvpn.png)
 
-Jekyll also offers powerful support for code snippets:
-
-{% highlight ruby %}
-def print_hi(name)
-  puts "Hi, #{name}"
-end
-print_hi('Tom')
-#=> prints 'Hi, Tom' to STDOUT.
+Here's a replay of my shell session:
+{% highlight shell %}
+$ eval $(op signin)
+Enter the password for [redacted] at my.1password.ca:
+$ openvpn_1password "op://Personal/ProtonVPNOpenVPN"
+...
+[2024-04-19T21:20:25Z INFO  openvpn_1password::openvpn] OpenVPN stdout: 2024-04-19 21:20:25 Initialization Sequence Completed
 {% endhighlight %}
 
-Check out the [Jekyll docs][jekyll-docs] for more info on how to get the most out of Jekyll. File all bugs/feature requests at [Jekyll’s GitHub repo][jekyll-gh]. If you have questions, you can ask them on [Jekyll Talk][jekyll-talk].
+If you see "Initialization Sequence Completed", you are off to the races!
 
-[jekyll-docs]: https://jekyllrb.com/docs/home
-[jekyll-gh]:   https://github.com/jekyll/jekyll
-[jekyll-talk]: https://talk.jekyllrb.com/
