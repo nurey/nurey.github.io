@@ -48,7 +48,7 @@ Chief Technology Officer
 
 _Ruby on Rails, Redis, Postgresql, Solr, Sphinx, Bootstrap, jQuery_
 
-### Freelance Software Developer, Consultant (April 2005–October 2014)
+### Freelance Software Developer, Consultant (January 2000–October 2014)
 
 Past clients include:
 
@@ -76,7 +76,6 @@ Past clients include:
     - Designed and developed distributed network fault management system using Perl, Oracle, Spectrum (SSAPI) and SNMP
 - __MPL Communications__
     - Developed award-winning financial news site, AdviceForInvestors.com. 
-
 
 ## Projects
 
