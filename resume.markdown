@@ -23,7 +23,7 @@ Github: [https://github.com/nurey](https://github.com/nurey)
 
 _Ruby on Rails, Postgresql, Redis, Javascript, Typescript, Stimulus_
 
-### [Zoocasa.com](https://www.zoocasa.com) (October 2014–December 2021)
+### Zoocasa (October 2014–December 2021)
 
 - Built RESTful APIs using Ruby on Rails that served data to the JavaScript front-end with tens of thousands of unique daily users
 - Scaled the platform to support sustained growth of daily users and data
@@ -39,7 +39,7 @@ _Ruby on Rails, Postgresql, PostGIS, Redis, ElasticSearch, Kubernetes, AWS EKS, 
 
 _Ruby on Rails, Postgresql, Javascript_
 
-### [Quandl.com](https://www.quandl.com) (February 2012–August 2012)
+### Quandl (February 2012–August 2012)
 Chief Technology Officer 
 
 - Built a financial data platform to secure first round of financing 
