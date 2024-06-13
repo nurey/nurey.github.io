@@ -19,6 +19,7 @@ Github: [https://github.com/nurey](https://github.com/nurey)
 ### Carbide Secure (January 2022–February 2024)
 
 - Iterated platform for B2B SaaS security compliance platform, collaborating with a group of 8 developers, creating new features across the full stack
+- Improved team productivity by adding Tailwind CSS, Hotwire, Gettext 
 - Developed a ChatGPT-style customer support agent using OpenAI’s API
 
 _Ruby on Rails, Postgresql, Redis, Javascript, Typescript, Stimulus_
