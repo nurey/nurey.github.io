@@ -94,4 +94,10 @@ Designed and developed a subscription-based web application that allows both rea
 
 Conceived and implemented a web application (Python/Django on Google App Engine) to track government spending on procurement contracts amounting to millions of data points. 
 Appointed to the Advisory Board at VisibleGovernment.ca in 2010 and attended conferences to raise awareness of government transparency and open data.  
-➡️ [Github repo](https://github.com/nurey/disclosed)
+➡️ [Github repo](https://github.com/nurey/disclosed)  
+
+<br>
+
+---
+  
+Last updated on {% last_modified_at %}
