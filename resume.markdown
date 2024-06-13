@@ -2,8 +2,8 @@
 layout: page
 title: Resume
 permalink: /resume/
+last_modified_at: June 13, 2024
 ---
-
 
 # Ilia Lobsanov - Senior Software Engineer
 
@@ -100,4 +100,4 @@ Appointed to the Advisory Board at VisibleGovernment.ca in 2010 and attended con
 
 ---
   
-Last updated on {% last_modified_at %}
+Last updated on {{ page.last_modified_at }}
