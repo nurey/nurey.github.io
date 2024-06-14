@@ -82,8 +82,9 @@ Past clients include:
 
 ### Budgetr
 
-Developed an expense tracking web application, using Ruby on Rails, GraphQL, React. This tool allows budget-conscious consumers to keep tabs on their credit card spending and assign each transaction to a category. A rudimentary demo is linked below. As this is something used on a weekly basis for the last 3 years, albeit by one user only, this project is alive and well, and a lot of features are in the backlog.
-
+Developed an expense tracking web application, using Ruby on Rails, GraphQL, React. 
+This tool allows budget-conscious consumers to keep tabs on their credit card spending and assign each transaction to a category. A rudimentary demo is linked below. 
+As this is something used on a weekly basis for the last 3 years, albeit by one user only, this project is alive and well, and a lot of features are in the backlog.  
 ➡️ [Demo](https://budgetr-app.nurey.com)  
 ➡️ [Github repo](https://github.com/nurey/banking)
 
