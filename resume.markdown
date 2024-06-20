@@ -17,20 +17,25 @@ Github: [https://github.com/nurey](https://github.com/nurey)
 ## Experience
 
 ### Carbide Secure (January 2022–February 2024)
+Senior Software Developer - fully remote
 
-- Iterated platform for B2B SaaS security compliance platform, collaborating with a group of 8 developers, creating new features across the full stack
-- Improved team productivity by adding Tailwind CSS, Hotwire, Gettext 
-- Developed a ChatGPT-style customer support agent using OpenAI’s API
+- Enhanced a B2B SaaS cybersecurity compliance platform by developing and deploying new features across the full stack, reporting directly to the CTO
+- Boosted team productivity by integrating Tailwind CSS, Hotwire, and Gettext into the development workflow
+- Streamlined the onboarding process with the implementation of Github Codespaces, reducing setup time for new hires
+- Created and maintained comprehensive documentation for onboarding, continuous integration, development best practices, and testing procedures
+- Developed a ChatGPT-style customer support agent utilizing OpenAI’s API, improving customer interaction and support efficiency
+- Served on the culture committee, driving initiatives to enhance employee engagement and satisfaction
 
-_Ruby on Rails, Postgresql, Redis, Javascript, Typescript, Stimulus_
+_Ruby on Rails, PostgreSQL, Redis, JavaScript, TypeScript, Stimulus_
 
 ### Zoocasa (October 2014–December 2021)
+Senior Software Developer
 
 - Built RESTful APIs using Ruby on Rails that served data to the JavaScript front-end with tens of thousands of unique daily users
 - Scaled the platform to support sustained growth of daily users and data
 - Developed a CRM system to manage leads for realtors and customer support
 
-_Ruby on Rails, Postgresql, PostGIS, Redis, ElasticSearch, Kubernetes, AWS EKS, AWS Lambda_
+_Ruby on Rails, PostgreSQL, PostGIS, Redis, ElasticSearch, Kubernetes, AWS EKS, AWS Lambda_
 
 ### Bitmaker (July 2015–March 2016)
 
@@ -38,7 +43,7 @@ _Ruby on Rails, Postgresql, PostGIS, Redis, ElasticSearch, Kubernetes, AWS EKS, 
 - Developed teaching resources
 - Developed an online learning platform
 
-_Ruby on Rails, Postgresql, Javascript_
+_Ruby on Rails, PostgreSQL, JavaScript_
 
 ### Quandl (February 2012–August 2012)
 Chief Technology Officer 
@@ -47,7 +52,7 @@ Chief Technology Officer
 - Responsible for architecture, coding, resourcing and mentoring developers
 - Acquired by Nasdaq
 
-_Ruby on Rails, Redis, Postgresql, Solr, Sphinx, Bootstrap, jQuery_
+_Ruby on Rails, Redis, PostgreSQL, Solr, Sphinx, Bootstrap, jQuery_
 
 ### Freelance Software Developer, Consultant (January 2000–October 2014)
 
