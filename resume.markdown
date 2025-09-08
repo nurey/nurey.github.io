@@ -15,7 +15,7 @@ last_modified_at: September 2, 2025
   ecosystem including Hotwire/Stimulus, with additional experience in AI integration and cloud
   infrastructure.
 
-[ilia@lobsanov.com](mailto:ilia@lobsanov.com)
+[ilia@lobsanov.com](mailto:ilia@lobsanov.com)\
 Github: [https://github.com/nurey](https://github.com/nurey)
 
 ## Experience
