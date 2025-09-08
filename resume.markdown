@@ -2,19 +2,34 @@
 layout: page
 title: Resume
 permalink: /resume/
-last_modified_at: June 14, 2024
+last_modified_at: September 2, 2025
 ---
 
 # Ilia Lobsanov - Senior Software Engineer
 
-I have been writing software professionally since 2000, and specializing in Ruby since 2010. 
-My experience is backend oriented, but I can also work on the front-end, with recent experience in Hotwire, React, and Tailwind CSS.  
-➡️ I'm currently looking to join a product company that uses Ruby on Rails.
+ Senior full-stack Ruby on Rails developer with 25 years of experience building scalable platforms
+  for high-growth companies. Proven track record delivering features for enterprise clients
+  including 3 of the world's largest real estate investors, and building systems serving tens of
+  thousands of daily users. Experience spans CTO leadership, team mentoring, and contributing to
+  multiple successful acquisitions (Nasdaq, Yardi Systems, Adtran). Expertise in modern Rails
+  ecosystem including Hotwire/Stimulus, with additional experience in AI integration and cloud
+  infrastructure.
 
-[ilia@lobsanov.com](mailto:ilia@lobsanov.com)  
+[ilia@lobsanov.com](mailto:ilia@lobsanov.com)
 Github: [https://github.com/nurey](https://github.com/nurey)
 
 ## Experience
+
+### Altrio, Inc. (September 2024–August 2025)
+Senior Software Developer - fully remote
+
+- Delivered major features for commercial real estate investment platform serving 3 of the world's 4 largest real estate investors, including a property marketing platform adding new sources of revenue for the company
+- Migrated React components to server-side rendering using Hotwire/Stimulus, improving page load times and simplifying the code base
+- Collaborated with product team using ShapeUp framework to consistently deliver features within
+  6-week cycles
+- Role eliminated due to company restructuring
+
+_Ruby on Rails, PostgreSQL, Redis, JavaScript, Stimulus_
 
 ### Carbide Secure (January 2022–February 2024)
 Senior Software Developer - fully remote
@@ -38,6 +53,7 @@ Senior Software Developer
 _Ruby on Rails, PostgreSQL, PostGIS, Redis, ElasticSearch, Kubernetes, AWS EKS, AWS Lambda_
 
 ### Bitmaker (July 2015–March 2016)
+Instructor
 
 - Taught web development in a 9 week bootcamp program
 - Developed teaching resources
@@ -46,9 +62,9 @@ _Ruby on Rails, PostgreSQL, PostGIS, Redis, ElasticSearch, Kubernetes, AWS EKS, 
 _Ruby on Rails, PostgreSQL, JavaScript_
 
 ### Quandl (February 2012–August 2012)
-Chief Technology Officer 
+Chief Technology Officer
 
-- Built a financial data platform to secure first round of financing 
+- Built a financial data platform to secure first round of financing
 - Responsible for architecture, coding, resourcing and mentoring developers
 - Acquired by Nasdaq
 
@@ -59,7 +75,7 @@ _Ruby on Rails, Redis, PostgreSQL, Solr, Sphinx, Bootstrap, jQuery_
 Past clients include:
 
 - __Plumtales__, a social media analytics firm in Toronto
-    - Developed social media aggregation and analytics platform 
+    - Developed social media aggregation and analytics platform
     - Grew and mentored the technical team
 - __Enginuity Group__, a real estate research firm in Toronto
     - Developed hoodq.com, an open-data based search engine to gather street level information on real estate properties
@@ -77,34 +93,34 @@ Past clients include:
     - Demonstrated ability to adopt a legacy system and then stabilize, maintain, refactor and modernize it with a continuous integration framework (early days of CI/CD using Hudson)
     - Integrated third party client scanning SDK (Opswat OESIS)
 - __Propertyshark.com__, acquired by Yardi Systems
-    - Pioneered online real estate research in New York City and continental US with transfer data on 20 million properties 
+    - Pioneered online real estate research in New York City and continental US with transfer data on 20 million properties
 - __Rogers Cable__
     - Designed and developed distributed network fault management system using Perl, Oracle, Spectrum (SSAPI) and SNMP
 - __MPL Communications__
-    - Developed award-winning financial news site, AdviceForInvestors.com. 
+    - Developed award-winning financial news site, AdviceForInvestors.com.
 
 ## Projects
 
 ### Budgetr
 
-Developed an expense tracking web application, using Ruby on Rails, GraphQL, React. 
-This tool allows budget-conscious consumers to keep tabs on their credit card spending and assign each transaction to a category. A rudimentary demo is linked below. 
-As this is something used on a weekly basis for the last 3 years, albeit by one user only, this project is alive and well, and a lot of features are in the backlog.  
-➡️ [Demo](https://budgetr-app.nurey.com)  
+Developed an expense tracking web application, using Ruby on Rails, GraphQL, React.
+This tool allows budget-conscious consumers to keep tabs on their credit card spending and assign each transaction to a category. A rudimentary demo is linked below.
+As this is something used on a weekly basis for the last 3 years, albeit by one user only, this project is alive and well, and a lot of features are in the backlog.
+➡️ [Demo](https://budgetr-app.nurey.com)
 ➡️ [Github repo](https://github.com/nurey/banking)
 
 ### Propertycloud.ca
 
-Designed and developed a subscription-based web application (Ruby on Rails) that allows both realtors and home buyers to save time by accessing curated listing information on their mobile devices. Besides saving time, the realtor has the benefit of a customized, 'designed' QR code and custom URL for each listing. This went into production in 2011 and saw a large local real estate brokerage as a client. It was shelved a year later, due to professional commitments: all the founders, including myself, had full-time jobs that took precedence. 
+Designed and developed a subscription-based web application (Ruby on Rails) that allows both realtors and home buyers to save time by accessing curated listing information on their mobile devices. Besides saving time, the realtor has the benefit of a customized, 'designed' QR code and custom URL for each listing. This went into production in 2011 and saw a large local real estate brokerage as a client. It was shelved a year later, due to professional commitments: all the founders, including myself, had full-time jobs that took precedence.
 
 ### Disclosed.ca
 
-Conceived and implemented a web application (Python/Django on Google App Engine) to track government spending on procurement contracts amounting to millions of data points. 
-Appointed to the Advisory Board at VisibleGovernment in 2010 and attended conferences to raise awareness of government transparency and open data.  
-➡️ [Github repo](https://github.com/nurey/disclosed)  
+Conceived and implemented a web application (Python/Django on Google App Engine) to track government spending on procurement contracts amounting to millions of data points.
+Appointed to the Advisory Board at VisibleGovernment in 2010 and attended conferences to raise awareness of government transparency and open data.
+➡️ [Github repo](https://github.com/nurey/disclosed)
 
 <br>
 
 ---
-  
+
 Last updated on {{ page.last_modified_at }}
