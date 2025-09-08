@@ -4,6 +4,15 @@ title: Resume
 permalink: /resume/
 last_modified_at: September 2, 2025
 ---
+<style>
+@media print {
+  header,
+  footer,
+  .no-print {
+    display: none !important;
+  }
+}
+</style>
 
 # Ilia Lobsanov - Senior Software Engineer
 
