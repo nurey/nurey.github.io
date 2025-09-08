@@ -113,20 +113,22 @@ Past clients include:
 ### Budgetr
 
 Developed an expense tracking web application, using Ruby on Rails, GraphQL, React.
-This tool allows budget-conscious consumers to keep tabs on their credit card spending and assign each transaction to a category. A rudimentary demo is linked below.
+This tool allows budget-conscious consumers to keep tabs on their credit card spending and assign each transaction to a category.
 As this is something used on a weekly basis for the last 3 years, albeit by one user only, this project is alive and well, and a lot of features are in the backlog.
-➡️ [Demo](https://budgetr-app.nurey.com)
-➡️ [Github repo](https://github.com/nurey/banking)
 
-### Propertycloud.ca
+➡️ [Demo](https://budgetr-app.nurey.com) https://budgetr-app.nurey.com\
+➡️ [Github repo](https://github.com/nurey/banking) https://github.com/nurey/banking
+
+### Propertycloud
 
 Designed and developed a subscription-based web application (Ruby on Rails) that allows both realtors and home buyers to save time by accessing curated listing information on their mobile devices. Besides saving time, the realtor has the benefit of a customized, 'designed' QR code and custom URL for each listing. This went into production in 2011 and saw a large local real estate brokerage as a client. It was shelved a year later, due to professional commitments: all the founders, including myself, had full-time jobs that took precedence.
 
-### Disclosed.ca
+### Disclosed
 
 Conceived and implemented a web application (Python/Django on Google App Engine) to track government spending on procurement contracts amounting to millions of data points.
 Appointed to the Advisory Board at VisibleGovernment in 2010 and attended conferences to raise awareness of government transparency and open data.
-➡️ [Github repo](https://github.com/nurey/disclosed)
+
+➡️ [Github repo](https://github.com/nurey/disclosed) https://github.com/nurey/disclosed
 
 <br>
 
