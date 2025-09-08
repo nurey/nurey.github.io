@@ -4,5 +4,5 @@ title: About
 permalink: /about/
 ---
 
-I write about software development that's relevant to my life.
-Anything that makes my life easier is a good thing. It's probably good for someone else too.
+I focus on practical software development insights that solve real problems.
+When something simplifies my workflow, I share it. Chances are it'll help others too.
